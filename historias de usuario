@@ -1,0 +1,23 @@
+Usuario comun
+< 1- como futuro usuario de la app quiero crearme un usuario para poder hacer uso de la aplicación multiplataforma en el listado de convocados al partido qatar 2022 >
+< 2- como usuario quiero poner mi usuario y clave para poder iniciar sesión en la plataforma >
+< 4- Como usuario quiero poder visualizar fecha, hora y lugar del partido >
+< 5- Como usuario quiero poder visualizar la lista de convocados >
+< 6- Como usuario quiero poder visualizar el resultado de los partidos >
+< 
+<
+<
+
+
+
+
+Admin
+< 1- Como usuario administrador quiero poder modificar los datos de la pagina >
+< 2- Como usuario quiero poder registrar datos de los convocados >
+< 3- Como usuario quiero registrar baja logica de los convocados >
+< 4- Como usuario quiero modificar datos del partido >
+< 5- Como usuario quiero actualizar la lista de convocados >
+< 6- Como admin quiero poder visualizar los usuarios registrados >
+<
+<
+<
